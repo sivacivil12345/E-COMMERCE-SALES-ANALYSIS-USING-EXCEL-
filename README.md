@@ -63,5 +63,9 @@ This project highlights the ability to transform raw transactional data into cle
 
 The dashboard indicates that the business experienced strong revenue growth between 2023 and 2024, with Sports and Electronics leading sales performance. The East and North regions contribute the highest revenue, while South and West offer opportunities for growth. Forecasting suggests stable future sales, making this a good time to strengthen marketing strategies and optimize inventory planning for sustained business growth.
 
+## Dashboard
+<img width="845" height="623" alt="Screenshot 2026-07-05 130111" src="https://github.com/user-attachments/assets/5589e83f-47e2-41de-8fd6-157d42de3313" />
+
+
 ## 👨‍💻 About Me
 Data Analyst with a strong interest in data cleaning, analysis, and business intelligence. Passionate about turning complex datasets into clear insights that help organizations make smarter strategic decisions.
